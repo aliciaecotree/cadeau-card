@@ -1,0 +1,15 @@
+.preview-image{
+    height : 100%;
+    width: 100%;
+    object-fit: contain;
+}
+
+.border-grey{
+    border: 1px solid rgba(0,0,0,.125);
+}
+.offset-1-5 {
+    margin-left: 15.333333%;
+}
+
+
+.fr{float: right;}
